@@ -40,8 +40,7 @@ Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tres-en-ray
 5. Usa el botón "Reiniciar Juego" para comenzar una nueva partida.
 6. Usa el botón "Reiniciar Todo" para poner a cero todas las estadísticas.
 
-## ![image](https://github.com/user-attachments/assets/947d848a-5d7f-4101-bbb1-54c2aaeef6d6)
-Estructura del proyecto
+## ![image](https://github.com/user-attachments/assets/122d41cd-2ecf-4735-9d28-cb65f83c0faf) Estructura del proyecto
 
 - `index.html`: La estructura HTML del juego.
 - `styles.css`: Estilos CSS para la apariencia del juego.
