@@ -58,7 +58,7 @@ Si quieres contribuir con este proyecto, puedes:
 
 ## Licencia
 
-Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver [LICENSE](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/guiasoftwarelibre/licencias_para_compartir.html) para más información.
+Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver [LICENCIAS](https://descargas.intef.es/cedec/proyectoedia/guias/contenidos/guiasoftwarelibre/licencias_para_compartir.html) para más información.
 
 ## Contacto
 
