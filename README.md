@@ -36,13 +36,12 @@ Este es un juego simple de Tres en Raya (también conocido como Tic-Tac-Toe) imp
 
 ## Cómo contribuir
 
-Si quieres contribuir a este proyecto, puedes:
+Si quieres contribuir con este proyecto, puedes:
 
-1. Fork el repositorio
-2. Crear una nueva rama (`git checkout -b feature/AmazingFeature`)
-3. Hacer commit de tus cambios (`git commit -m 'Add some AmazingFeature'`)
-4. Push a la rama (`git push origin feature/AmazingFeature`)
-5. Abrir un Pull Request
+1. Crear un nuevo asunto (issue) [https://github.com/ejavierds/Tres-en-Raya-Clasico/issues](https://github.com/ejavierds/Tres-en-Raya-Clasico/issues)
+2. Generar un fork del repositorio [https://github.com/ejavierds/Tres-en-Raya-Clasico/forks](https://github.com/ejavierds/Tres-en-Raya-Clasico/forks)
+3. Crear una nueva rama [https://github.com/ejavierds/Tres-en-Raya-Clasico/branches](https://github.com/ejavierds/Tres-en-Raya-Clasico/branches)
+4. Abrir un pull request [https://github.com/ejavierds/Tres-en-Raya-Clasico/pulls](https://github.com/ejavierds/Tres-en-Raya-Clasico/pulls)
 
 ## Licencia
 
