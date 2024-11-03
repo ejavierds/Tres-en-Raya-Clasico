@@ -1,18 +1,37 @@
 # Tres en Raya
 
-Este es un juego simple de Tres en Raya (también conocido como Tic-Tac-Toe) implementado con HTML, CSS y JavaScript.
+<p align="center">
+  <img src="screenshot.png" alt="Captura de pantalla del juego" width="300">
+</p>
 
-## Características
+Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro. Juega contra un amigo y lleva un registro de tus victorias.
 
-- Interfaz de usuario intuitiva y atractiva
-- Contador de tiempo para cada partida
-- Estadísticas de juego (victorias de X, victorias de O, empates)
-- Botón para reiniciar el juego actual
-- Botón para reiniciar todas las estadísticas
-- Animación de línea de victoria
-- Diseño responsivo
+## 🚀 Demo
 
-## Cómo jugar
+Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tu-usuario.github.io/tres-en-raya)
+
+## ✨ Características
+
+- 🎮 Juego para dos jugadores
+- ⏱️ Contador de tiempo por partida
+- 📊 Estadísticas de juego (victorias X, victorias O, empates)
+- 🔄 Reinicio de juego y estadísticas
+- 🏆 Animación de línea de victoria
+- 📱 Diseño responsivo
+
+## 🛠️ Tecnologías
+
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+
+## 🏁 Empezando
+
+### Prerrequisitos
+
+- Un navegador web moderno
+
+### Cómo jugar
 
 1. Abre el archivo `index.html` en tu navegador web.
 2. El juego comienza con el jugador X. Haz clic en cualquier celda vacía para hacer tu movimiento.
@@ -27,12 +46,6 @@ Este es un juego simple de Tres en Raya (también conocido como Tic-Tac-Toe) imp
 - `styles.css`: Estilos CSS para la apariencia del juego.
 - `script.js`: La lógica del juego en JavaScript.
 - `README.md`: Este archivo.
-
-## Tecnologías utilizadas
-
-- HTML5
-- CSS3
-- JavaScript (ES6+)
 
 ## Cómo contribuir
 
