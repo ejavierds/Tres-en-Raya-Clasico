@@ -46,10 +46,10 @@ Si quieres contribuir a este proyecto, puedes:
 
 ## Licencia
 
-Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
+Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver `LICENSE` para más información.
 
 ## Contacto
 
-Tu Nombre - [ederyrodriguez@gmail.com](mailto:tu@email.com)
+Edery Javier Rodríguez Alvarado (@ejavierds) - [ederyrodriguez@gmail.com](mailto:tu@email.com)
 
 Enlace del proyecto: [https://github.com/tuusuario/tres-en-raya](https://github.com/tuusuario/tres-en-raya)
