@@ -1,14 +1,14 @@
 # Tres en Raya
 
 <p align="center">
-  <img src="screenshot.png" alt="Captura de pantalla del juego" width="300">
+  <img src="captura_de_pantalla_tres_en_raya.png" alt="Captura de pantalla del juego" width="300">
 </p>
 
 Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro. Juega contra un amigo y lleva un registro de tus victorias.
 
 ## 🚀 Demo
 
-Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tu-usuario.github.io/tres-en-raya)
+Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://ejavierds.github.io/Tres-en-Raya-Clasico)
 
 ## ✨ Características
 
