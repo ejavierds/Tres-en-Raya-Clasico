@@ -8,7 +8,7 @@ Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro. 
 
 ## 🚀 Demo
 
-Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://ejavierds.github.io/Tres-en-Raya-Clasico)
+Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tres-en-raya-bqto.s3.sa-east-1.amazonaws.com/index.html)
 
 ## ✨ Características
 
@@ -31,7 +31,7 @@ Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://ejavierds.g
 
 - Un navegador web moderno
 
-### Cómo jugar
+### 🎮 Cómo jugar
 
 1. Abre el archivo `index.html` en tu navegador web.
 2. El juego comienza con el jugador X. Haz clic en cualquier celda vacía para hacer tu movimiento.
@@ -40,7 +40,8 @@ Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://ejavierds.g
 5. Usa el botón "Reiniciar Juego" para comenzar una nueva partida.
 6. Usa el botón "Reiniciar Todo" para poner a cero todas las estadísticas.
 
-## Estructura del proyecto
+## ![image](https://github.com/user-attachments/assets/947d848a-5d7f-4101-bbb1-54c2aaeef6d6)
+Estructura del proyecto
 
 - `index.html`: La estructura HTML del juego.
 - `styles.css`: Estilos CSS para la apariencia del juego.
