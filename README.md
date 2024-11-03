@@ -52,4 +52,4 @@ Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver `LICENSE` para 
 
 Edery Javier Rodríguez Alvarado (@ejavierds) - [ederyrodriguez@gmail.com](mailto:tu@email.com)
 
-Enlace del proyecto: [https://github.com/ejavierds/Tres-en-Raya-Clasico](https://github.com/ejavierds/Tres-en-Raya-Clasico))
+Enlace del proyecto: [https://github.com/ejavierds/Tres-en-Raya-Clasico](https://github.com/ejavierds/Tres-en-Raya-Clasico)
