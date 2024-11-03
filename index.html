@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tres en Raya</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Tres en Raya</h1>
+        <div id="stats">
+            <div id="time">Tiempo: 00:00</div>
+            <div id="draws">Empates: 0</div>
+            <div id="xWins">X Victorias: 0</div>
+            <div id="oWins">O Victorias: 0</div>
+        </div>
+        <div id="board" class="board">
+            <div class="cell" data-index="0"></div>
+            <div class="cell" data-index="1"></div>
+            <div class="cell" data-index="2"></div>
+            <div class="cell" data-index="3"></div>
+            <div class="cell" data-index="4"></div>
+            <div class="cell" data-index="5"></div>
+            <div class="cell" data-index="6"></div>
+            <div class="cell" data-index="7"></div>
+            <div class="cell" data-index="8"></div>
+        </div>
+        <div id="status"></div>
+        <div class="buttons-container">
+            <button id="restartButton">Reiniciar Juego</button>
+            <button id="resetAllButton">Reiniciar Todo</button>
+        </div>
+    </div>
+    <script src="script.js"></script>
+</body>
+</html>
