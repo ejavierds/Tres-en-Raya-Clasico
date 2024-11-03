@@ -1,7 +1,7 @@
 # Tres en Raya
 
 <p align="center">
-  <img src="captura_de_pantalla_tres_en_raya.png" alt="Captura de pantalla del juego" width="300">
+  <img src="captura_de_pantalla_tres_en_raya.png" alt="Captura de pantalla del juego" width="400">
 </p>
 
 Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro. Juega contra un amigo y lleva un registro de tus victorias.
