@@ -1,7 +1,7 @@
 # Juego de Tres en Raya (Tic-Tac-Toe)
 
 <p align="center">
-  <img src="captura_de_pantalla_tres_en_raya.png" alt="Captura de pantalla del juego" width="500">
+  <img src="[captura_de_pantalla_tres_en_raya.png](https://github.com/ejavierds/Tres-en-Raya-Clasico/blob/main/captura_de_pantalla_tres_en_raya.png)" alt="Captura de pantalla del juego" width="500">
 </p>
 
 Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro, que incluye características como modo contra la computadora, diferentes niveles de dificultad y seguimiento de estadísticas.
