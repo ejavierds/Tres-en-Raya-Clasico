@@ -71,22 +71,22 @@ Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tres-en-ray
 - `script.js`: La lógica del juego en JavaScript.
 - `README.md`: Este archivo.
 
-## 🤖 Algoritmo de la IA
+## 🤖 Algoritmo de la IA (Simulación de IA con Teoría de Juegos)
 
 En el modo difícil, la computadora utiliza el algoritmo Minimax para:
 
-- Analizar todos los posibles movimientos
-- Evaluar el mejor movimiento posible
-- Bloquear jugadas ganadoras del oponente
-- Buscar oportunidades de victoria
+- Analizar todos los posibles movimientos.
+- Evaluar el mejor movimiento posible.
+- Bloquear jugadas ganadoras del oponente.
+- Buscar oportunidades de victoria.
 
 ## 🔄 Actualizaciones Futuras
 
-- Añadir efectos de sonido
-- Implementar un sistema de guardado local
-- Añadir más niveles de dificultad
-- Implementar un modo de juego online
-- Añadir animaciones más elaboradas
+- Añadir efectos de sonido.
+- Implementar un sistema de guardado local.
+- Añadir más niveles de dificultad.
+- Implementar un modo de juego online con IA real (Deep Learning).
+- Añadir animaciones más elaboradas.
 
 ## Cómo contribuir
 
@@ -104,10 +104,9 @@ Distribuido bajo la Licencia Creative Commons (CC BY-NC-ND). Ver [LICENCIAS](htt
 ## ✍️ Contacto
 
 - Edery Javier Rodríguez Alvarado (@ejavierds) - [ederyrodriguez@gmail.com](mailto:ederyrodriguez@gmail.com)
-
 - Enlace del proyecto: [https://github.com/ejavierds/Tres-en-Raya-Clasico](https://github.com/ejavierds/Tres-en-Raya-Clasico)
 
 ## 🙏 Agradecimientos
 
-- Inspirado en el clásico juego de Tres en Raya
+- Inspirado en el clásico juego de Tres en Raya.
 - Referencias y recursos utilizados en el desarrollo: [Visual Studio Code](https://code.visualstudio.com/) | [Amazon Web Server (AWS)](https://aws.amazon.com)
