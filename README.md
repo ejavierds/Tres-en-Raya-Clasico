@@ -8,7 +8,7 @@ Un juego clásico de Tres en Raya implementado con HTML, CSS y JavaScript puro, 
 
 ## 🚀 Demo
 
-Puedes jugar al juego en vivo aquí: [Demo del Tres en Raya](https://tres-en-raya-bqto.s3.sa-east-1.amazonaws.com/index.html)
+Puedes jugar en vivo aquí: [Demo del Tres en Raya](https://tres-en-raya-bqto.s3.sa-east-1.amazonaws.com/index.html)
 
 ## ✨ Características
 
