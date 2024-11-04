@@ -52,7 +52,7 @@ Puedes jugar en vivo aquí: [Demo del Tres en Raya](https://tres-en-raya-bqto.s3
 
 ### Prerrequisitos
 
-- Un navegador web moderno
+- Un navegador web actualizado.
 
 ### 🎯 Cómo Jugar
 
