@@ -9,28 +9,45 @@
 <body>
     <div class="container">
         <h1>Tres en Raya</h1>
-        <div id="stats">
-            <div id="time">Tiempo: 00:00</div>
-            <div id="draws">Empates: 0</div>
-            <div id="xWins">X Victorias: 0</div>
-            <div id="oWins">O Victorias: 0</div>
+        <div class="controles">
+            <select id="modoJuego">
+                <option value="jugador">Jugador vs Jugador</option>
+                <option value="computadora">Jugador vs Computadora</option>
+            </select>
+            <select id="dificultad">
+                <option value="facil">Fácil</option>
+                <option value="dificil">Difícil</option>
+            </select>
         </div>
-        <div id="board" class="board">
-            <div class="cell" data-index="0"></div>
-            <div class="cell" data-index="1"></div>
-            <div class="cell" data-index="2"></div>
-            <div class="cell" data-index="3"></div>
-            <div class="cell" data-index="4"></div>
-            <div class="cell" data-index="5"></div>
-            <div class="cell" data-index="6"></div>
-            <div class="cell" data-index="7"></div>
-            <div class="cell" data-index="8"></div>
+        <div id="tablero">
+            <div class="celda" data-index="0"></div>
+            <div class="celda" data-index="1"></div>
+            <div class="celda" data-index="2"></div>
+            <div class="celda" data-index="3"></div>
+            <div class="celda" data-index="4"></div>
+            <div class="celda" data-index="5"></div>
+            <div class="celda" data-index="6"></div>
+            <div class="celda" data-index="7"></div>
+            <div class="celda" data-index="8"></div>
         </div>
-        <div id="status"></div>
-        <div class="buttons-container">
-            <button id="restartButton">Reiniciar Juego</button>
-            <button id="resetAllButton">Reiniciar Todo</button>
+        <div id="estado"></div>
+        <div id="tiempo">Tiempo: 00:00</div>
+        <button id="reiniciar">Reiniciar Juego</button>
+        <div id="estadisticas">
+            <div>
+                <p>Victorias X</p>
+                <span id="victoriasX">0</span>
+            </div>
+            <div>
+                <p>Victorias O</p>
+                <span id="victoriasO">0</span>
+            </div>
+            <div>
+                <p>Empates</p>
+                <span id="empates">0</span>
+            </div>
         </div>
+        <button id="reiniciarEstadisticas">Reiniciar Estadísticas</button>
     </div>
     <script src="script.js"></script>
 </body>
